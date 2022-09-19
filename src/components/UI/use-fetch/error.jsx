@@ -12,7 +12,7 @@ const Error = () => {
 
   return (
     <div className="m-2">
-      <h1>Error https://netology.ru/</h1>
+      <h1>Error https://jsonplaceholder.typicode.com/photoss</h1>
       <div className="border border-2 p-2">{String(error)}</div>
     </div>
   );
